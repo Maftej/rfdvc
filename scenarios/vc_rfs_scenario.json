@@ -1,0 +1,568 @@
+{
+  "commands": [
+    {
+      "command": "EVAL_RF_MODEL",
+      "eval_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city",
+      "rf_variants": [
+        {
+          "rf_variant": "nerfacto",
+          "rf_models": [
+            {
+              "rf_name": "a1",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a1\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a1\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a2",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a2\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a2\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a3",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a3\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a3\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a4",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a4\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a4\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a5",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a6",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a6\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a6\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a7",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a7\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a7\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a8",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a8\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a8\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a9",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a9\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a9\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a10",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a10\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a10\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a11",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a11\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a11\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a12",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a12\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a12\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a13",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a13\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a13\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a14",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a14\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a14\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a15",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a15\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a15\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a16",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a16\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a16\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a17",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a17\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a17\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a18",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a18\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a18\\nerfacto\\metrics\\RF_Nerfacto"
+            },
+            {
+              "rf_name": "a19",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a19\\nerfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a19\\nerfacto\\metrics\\RF_Nerfacto"
+            }
+          ]
+        },
+        {
+          "rf_variant": "splatfacto",
+          "rf_models": [
+            {
+              "rf_name": "a1",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a1\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a1\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a2",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a2\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a2\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a3",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a3\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a3\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a4",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a4\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a4\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a5",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a6",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a6\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a6\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a7",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a7\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a7\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a8",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a8\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a8\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a9",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a9\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a9\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a10",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a10\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a10\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a11",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a11\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a11\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a12",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a12\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a12\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a13",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a13\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a13\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a14",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a14\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a14\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a15",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a15\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a15\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a16",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a16\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a16\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a17",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a17\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a17\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a18",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a18\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a18\\splatfacto\\metrics\\RF_Splatfacto"
+            },
+            {
+              "rf_name": "a19",
+              "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a19\\splatfacto\\metrics\\GT_Carla",
+              "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a19\\splatfacto\\metrics\\RF_Splatfacto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "command": "PLOT_EVAL_RF_MODEL",
+      "eval_rf_model_data_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\eval_models_data.json",
+      "plot_data_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city"
+    },
+    {
+      "command": "ENCODE_BATCH",
+      "encoding": {
+        "modes": [
+          "RFDVC",
+          "VC"
+        ],
+        "resolutions": [
+          [
+            1920,
+            1080
+          ],
+          [
+            720,
+            404
+          ],
+          [
+            500,
+            280
+          ],
+          [
+            300,
+            168
+          ]
+        ],
+        "gt_mask": false,
+        "encoded_batch_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\encoded",
+        "encoded_batch_name": "test_batch",
+        "codecs": [
+          {
+            "codec": "H.264",
+            "configurations": {
+              "presets": [
+                "veryfast"
+              ],
+              "crfs": [
+                23
+              ]
+            }
+          },
+          {
+            "codec": "H.265",
+            "configurations": {
+              "presets": [
+                "veryfast"
+              ],
+              "crfs": [
+                28
+              ]
+            }
+          },
+          {
+            "codec": "AV1",
+            "configurations": {
+              "presets": [
+                "veryfast"
+              ],
+              "crfs": [
+                28
+              ]
+            }
+          }
+        ]
+      },
+      "rf_variants": [
+        {
+          "rf_variant": "nerfacto",
+          "rf_models": [
+          ]
+        },
+        {
+          "rf_variant": "splatfacto",
+          "rf_models": [
+            {
+              "rf_name": "a5",
+              "batch_sizes": [
+                10
+              ],
+              "traffic": {
+                "sparse": [
+                  {
+                    "weathers": [
+                      {
+                        "weather_name": "clear_noon",
+                        "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_ClearNoon\\images",
+                        "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\RF_Splatfacto",
+                        "gt_mask_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_ClearNoon\\mask"
+                      }
+                    ]
+                  }
+                ],
+                "dense": [
+                  {
+                    "weathers": [
+                      {
+                        "weather_name": "clear_noon",
+                        "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\ClearNoon\\images",
+                        "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\Splatfacto",
+                        "gt_mask_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\ClearNoon\\mask"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "command": "EVAL_ENCODED_BATCH",
+      "encoded_batch_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\encoded\\test_batch_2024_11_12_16_09_50",
+      "dataframes_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes"
+    },
+    {
+      "command": "PLOT_ENCODED_BATCH",
+      "single_dataframe_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\encoded_batch_2024_11_12_14_34_10.csv",
+      "plots_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\plots",
+      "single_gt_dataframe_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\encoded_batch_2024_11_12_14_34_35.csv"
+    },
+    {
+      "command": "SIMULATE_PACKET_LOSS",
+      "encoded_batch_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\encoded\\test_batch_2024_11_12_12_07_24_CLEARNOON_RFDVC_1920_H264",
+      "dataframes_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes",
+      "corrupted_batch_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\encoded_corrupted",
+      "num_simulations": 45
+    },
+    {
+      "command": "PLOT_PACKET_LOSS",
+      "plots_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\plots",
+      "pl_dataframe_paths": [
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_22_00_01_42.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_22_01_41_07.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_22_09_21_42.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_22_11_18_00.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_01_15_28.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_01_22_44.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_01_32_40.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_01_39_53.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_01_44_49.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_01_50_37.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_01_55_47.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_02_13_18.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_02_19_10.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_02_27_11.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_02_36_41.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_02_43_09.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_11_27_43.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_11_36_48.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_11_42_46.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_11_47_35.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_11_56_49.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_03_01.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_07_42.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_17_36.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_23_55.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_32_49.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_40_09.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_45_03.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_50_30.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_52_58.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_12_56_52.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_00_51.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_04_27.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_13_23.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_18_40.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_23_22.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_32_47.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_37_02.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_41_39.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_46_38.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_51_55.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_13_51_55.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_14_07_05.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_14_11_28.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_14_23_57.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_14_30_21.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_14_45_40.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_15_20_38.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_15_28_18.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_15_35_32.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_15_45_10.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_16_06_58.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_16_11_27.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_16_22_34.csv",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes\\packet_loss_evaluation_2024_11_24_16_38_16.csv"
+      ]
+    },
+    {
+      "command": "CREATE_GT_MASK",
+      "segmentation_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_HardRainNoon\\segmentation",
+      "new_gt_mask_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_HardRainNoon"
+    },
+    {
+      "command": "EVAL_DOWNSTREAM_TASK",
+      "encoded_batch_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\encoded\\test_batch_2024_10_21_11_25_29",
+      "dataframes_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\dataframes",
+      "traffic": {
+        "dense": [
+          {
+            "weathers": [
+              {
+                "weather_name": "clear_noon",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\ClearNoon\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\Splatfacto"
+              },
+              {
+                "weather_name": "clear_sunset",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\ClearSunSet\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\Splatfacto"
+              },
+              {
+                "weather_name": "wet_cloudy",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\WetCloudyNoon\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\Splatfacto"
+              },
+              {
+                "weather_name": "fog",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\Fog\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\Splatfacto"
+              },
+              {
+                "weather_name": "rain",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\HardRainNoon\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\Splatfacto"
+              }
+            ]
+          }
+        ],
+        "sparse": [
+          {
+            "weathers": [
+              {
+                "weather_name": "clear_noon",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_ClearNoon\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\RF_Splatfacto"
+              },
+              {
+                "weather_name": "clear_sunset",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_ClearSunSet\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\RF_Splatfacto"
+              },
+              {
+                "weather_name": "wet_cloudy",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_WetCloudyNoon\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\RF_Splatfacto"
+              },
+              {
+                "weather_name": "fog",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Fog\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\RF_Splatfacto"
+              },
+              {
+                "weather_name": "rain",
+                "gt_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_HardRainNoon\\images",
+                "rf_dataset_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\RF_Splatfacto"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "command": "ENCODE_IPFRAME_DATASET",
+      "h264_cfg": {
+        "presets": [
+          "veryslow",
+          "medium",
+          "veryfast"
+        ],
+        "crfs": [
+          18,
+          23,
+          28
+        ]
+      },
+      "ipframe_datasets_path": "C:\\Users\\mDopiriak\\Desktop\\CARLA_0.9.15\\WindowsNoEditor\\PythonAPI\\examples\\video_compression_rfs\\carla_rf\\datasets\\carla_ir_rl\\videos\\ipframe_dat_carla_vehicles_gs",
+      "encoded_videos_path": "C:\\Users\\mDopiriak\\Desktop\\CARLA_0.9.15\\WindowsNoEditor\\PythonAPI\\examples\\video_compression_rfs\\carla_rf\\datasets\\carla_ir_rl\\videos\\carla_ir_rl_vehicles_gs_videos"
+    },
+    {
+      "command": "EVAL_ENCODED_IPFRAME",
+      "ipframe_encoded_videos_path": "C:\\Users\\mDopiriak\\Desktop\\CARLA_0.9.15\\WindowsNoEditor\\PythonAPI\\examples\\video_compression_rfs\\carla_rf\\datasets\\carla_ir_rl\\videos\\carla_ir_rl_vehicles_gs_videos"
+    },
+    {
+      "command": "PLOT_DEMO_DATA",
+      "videos_path": "C:\\Users\\mDopiriak\\Desktop\\CARLA_0.9.15\\WindowsNoEditor\\PythonAPI\\examples\\video_compression_rfs\\carla_rf\\datasets\\carla_ir_rl\\videos\\carla_ir_rl_vehicles_gs_videos",
+      "demo_data_path": "C:\\Users\\mDopiriak\\Desktop\\CARLA_0.9.15\\WindowsNoEditor\\PythonAPI\\examples\\video_compression_rfs\\carla_rf\\datasets\\carla_ir_rl\\demo_data_vehicles_gs"
+    },
+    {
+      "command": "VIDEO_DEMO_DATA",
+      "frames_datasets_paths": [
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\Splatfacto",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\low_traffic\\Traffic_ClearNoon\\images",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\ClearNoon\\images",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\ClearSunSet\\images",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\WetCloudyNoon\\images",
+        "C:\\Users\\mDopiriak\\Desktop\\carla_city\\a5\\dense_traffic\\HardRainNoon\\images"
+      ],
+      "plot_sequence_path": "C:\\Users\\mDopiriak\\Desktop\\CARLA_0.9.15\\WindowsNoEditor\\PythonAPI\\examples\\video_compression_rfs\\carla_rf\\datasets\\carla_ir_rl\\demo_data_vehicles_gs",
+      "frames_path": "C:\\Users\\mDopiriak\\Desktop\\CARLA_0.9.15\\WindowsNoEditor\\PythonAPI\\examples\\video_compression_rfs\\carla_rf\\datasets\\carla_ir_rl\\demo_video_vehicles_gs\\frames",
+      "video_path": "C:\\Users\\mDopiriak\\Desktop\\carla_city\\videos\\deployment_cav_rf_frames.mp4"
+    },
+    {
+      "scenario": "TRAIN",
+      "n_steps": 35000,
+      "aabb_scale_values": [
+        128
+      ],
+      "fused_dataset_folder_name": "carla_ir_rl",
+      "full_fused_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl"
+    },
+    {
+      "scenario": "TEST_DATASET",
+      "test_images_count": 144,
+      "aabb_scale_values": [
+        128
+      ],
+      "fused_dataset_folder_name": "carla_ir_rl_obhajoba_minimovka",
+      "full_fused_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl_obhajoba_minimovka"
+    },
+    {
+      "scenario": "EVAL_MODELS",
+      "eval_models_full_file_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl\\test\\evaluated_models.json",
+      "full_fused_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl"
+    },
+    {
+      "scenario": "EVAL_DATASET",
+      "eval_dataset_folder_name": "carla_ir_rl_eval_noon_obhajoba_minimovka",
+      "full_fused_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl_obhajoba_minimovka",
+      "model_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\nerfs\\scenes\\carla_ir_rl_aabb_scale_128.ingp",
+      "trajectory_path": "C:\\Users\\mdopiriak\\Desktop\\nerfs\\INSTANT_NGP\\instant-ngp\\data\\nerf\\carla_dataset_noon\\transforms.json"
+    },
+    {
+      "scenario": "IPFRAME_DATASET",
+      "ipframe_dataset_folder_name": "ipframe_dataset_carla_ir_rl_noon_vehicles_gs",
+      "iframe_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl\\eval\\gaussian_splatting_noon_empty\\renders",
+      "pframe_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_noon_vehicles_rl\\train\\images",
+      "full_fused_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl"
+    },
+    {
+      "scenario": "PLOT_DATA",
+      "videos_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl\\videos\\carla_ir_rl_noon_vehicles_gs_videos"
+    },
+    {
+      "scenario": "PLOT_DEMO_DATA",
+      "videos_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl\\videos\\carla_ir_rl_noon_vehicles_gs_videos"
+    },
+    {
+      "scenario": "EVAL_TRAJECTORY",
+      "output_file_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl\\eval\\eval_trajectory_res1920x1080_carla_ir_rl_noon_empty_ingp_lpips.json",
+      "synthetic_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl\\train\\images",
+      "nerf_dataset_path": "C:\\Users\\mdopiriak\\PycharmProjects\\iis_nerf\\datasets\\carla_ir_rl\\test\\images_aabb_scale_128"
+    }
+  ]
+}
